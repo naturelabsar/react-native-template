@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`lala 1`] = `
+<View>
+  <Text>
+    hola22
+  </Text>
+</View>
+`;

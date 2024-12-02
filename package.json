@@ -1,0 +1,11 @@
+{
+  "name": "react-native-template",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "author": "Mauro Alejandro Elias",
+  "license": "ISC",
+  "packageManager": "yarn@3.6.4",
+  "publishConfig": {
+    "access": "public"
+  }
+}
